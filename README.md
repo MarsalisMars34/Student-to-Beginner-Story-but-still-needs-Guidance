@@ -1,0 +1,2 @@
+# Student-to-Beginner-Story-but-still-needs-Guidance
+The program is a command-line grade management application. A student can add courses across multiple semesters, record weighted assignment grades, view a formatted grade book, calculate GPA, run analytics, export a CSV transcript, and save/reload everything automatically via a JSON file. Runs entirely from python TermProject.py w/ no pip installs.
