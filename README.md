@@ -1,10 +1,10 @@
 # Student Grade & GPA Tracker
 
-#### Video Demo: <URL here>
+#### Video Demo: https://youtu.be/JI79LM83YqU
 
-#### Description:
+#### Description:5-minute demostration of my Python application Final term Project: Student & GPA Tracker.
 
-## What This Project Does
+## This Project showcase how python can be used to create aplications for various use without the need for internet 
 
 The **Student Grade & GPA Tracker** is a fully interactive command-line application written in Python that allows a student to manage their entire academic record from one program. Instead of manually tracking grades in a spreadsheet or relying on a university portal that may not always be accessible, this application puts the student in complete control of their own academic data.
 
